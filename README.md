@@ -2,13 +2,15 @@
   <img width='64' src='./src/icons/logomark.svg' alt='logo'/>
   
   <br/>
-  
-  <h1>TechnoCats Team blog</h1>
-  <a href='https://technocats-team.teplostanski.dev/'>https://technocats-team.teplostanski.dev/</a> Or <a href='https://technocats-team.netlify.app/'>https://technocats-team.netlify.app/</a>
-  
+  <a href='https://technocats-team.teplostanski.dev/'>
+    <img src='https://img.shields.io/website?down_color=red&down_message=offline&label=technocats-team.teplostanski.dev&style=for-the-badge&up_color=green&up_message=online&url=https%3A%2F%2Ftechnocats-team.teplostanski.dev'/>
+  </a>
+  <a href='https://technocats-team.netlify.app/'>
+    <img src='https://img.shields.io/website?down_color=red&down_message=offline&label=technocats-team.netlify.app&style=for-the-badge&up_color=green&up_message=online&url=https%3A%2F%2Ftechnocats-team.netlify.app'/>
+  </a>
+
   <br/>
   
-  <img src='https://img.shields.io/website?down_color=red&down_message=offline&label=website&style=for-the-badge&up_color=green&up_message=online&url=https%3A%2F%2Ftechnocats-team.teplostanski.dev'/>
   <img src='https://img.shields.io/badge/-astro.js-0d1117?style=for-the-badge&logo=astro'/>
   <img src='https://img.shields.io/badge/-react-0d1117?style=for-the-badge&logo=react'/>
   <img src='https://img.shields.io/badge/-css3-0d1117?style=for-the-badge&logo=css3'/>
