@@ -1,7 +1,10 @@
 <div align='center'>
   <img width='64' src='./src/icons/logomark.svg' alt='logo'/>
+
+  <h1>TechnoCats Team blog</h1>
   
   <br/>
+  
   <a href='https://technocats-team.teplostanski.dev/'>
     <img src='https://img.shields.io/website?down_color=red&down_message=offline&label=technocats-team.teplostanski.dev&style=for-the-badge&up_color=green&up_message=online&url=https%3A%2F%2Ftechnocats-team.teplostanski.dev'/>
   </a>
