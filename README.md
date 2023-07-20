@@ -4,7 +4,7 @@
   <br/>
   
   <h1>TechnoCats Team blog</h1>
-  <a href='https://technocats-team.teplostanski.dev'>https://technocats-team.teplostanski.dev</a>
+  <a href='http://technocats-team.teplostanski.dev/'>http://technocats-team.teplostanski.dev/</a>
   
   <br/>
   
