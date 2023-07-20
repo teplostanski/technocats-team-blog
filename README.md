@@ -1,4 +1,25 @@
-# Pet-project to learn Astro framework
+<div align='center'>
+  <img width='64' src='./src/icons/logomark.svg' alt='logo'/>
+  
+  <br/>
+  
+  <h1>TechnoCats Team blog</h1>
+  <a href='https://technocats-team.teplostanski.dev'>https://technocats-team.teplostanski.dev</a>
+  
+  <br/>
+  
+  <img src='https://img.shields.io/website?down_color=red&down_message=offline&label=website&style=for-the-badge&up_color=green&up_message=online&url=https%3A%2F%2Ftechnocats-team.teplostanski.dev'/>
+  <img src='https://img.shields.io/badge/-astro.js-0d1117?style=for-the-badge&logo=astro'/>
+  <img src='https://img.shields.io/badge/-react-0d1117?style=for-the-badge&logo=react'/>
+  <img src='https://img.shields.io/badge/-css3-0d1117?style=for-the-badge&logo=css3'/>
+  <img src='https://img.shields.io/badge/-html5-0d1117?style=for-the-badge&logo=html5'/>
+  <img src='https://img.shields.io/badge/-firebase-0d1117?style=for-the-badge&logo=firebase'/>
+  <img src='https://img.shields.io/badge/-netlify-0d1117?style=for-the-badge&logo=netlify'/>
+  <h4>Pet-project to learn Astro framework</h4>
+  
+  <br/>
+  <img src='./src/assets/screenshot.png' alt='screenshot' />
+</div>
 
 This repo provides the result of team **TechnoCats** work. It shows that the team already knows what Astro is. For this moment we already familiar with:
 
@@ -22,7 +43,7 @@ There were 6 of us who worked on this project:
   <img src="https://contrib.rocks/image?repo=Sibusky/technocats-astro-blog" />
 </a>
 
-Deploy link: https://astro-technocats.netlify.app/
+Deploy link: https://technocats-team.netlify.app/
 
 ### Admin panel
 
@@ -56,7 +77,7 @@ All pages with approved comments are rendered on server side. This means they ar
   <img src="https://contrib.rocks/image?repo=Sibusky/technocats-astro-blog" />
 </a>
 
-Ссылка на деплой: https://astro-technocats.netlify.app/
+Ссылка на деплой: https://technocats-team.netlify.app/
 
 ### Админ панель
 
