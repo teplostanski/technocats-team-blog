@@ -6,7 +6,8 @@ import netlify from '@astrojs/netlify/functions';
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://astro-technocats.netlify.app/",
+  site: 'https://teplostanski.github.io',
+  base: 'technocats-team-blog',
   integrations: [
     image({
       serviceEntryPoint: "@astrojs/image/sharp",
@@ -15,5 +16,4 @@ export default defineConfig({
     react(),
   ],
   output: "server",
-  adapter: netlify(),
 });
